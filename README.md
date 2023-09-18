@@ -1,1 +1,3 @@
-# golang-ebiten-first-test
+# ebitengine tutorial
+
+https://ebitengine.org/ja/documents/install.html
